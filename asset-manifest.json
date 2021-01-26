@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cotizador-cripto-react/static/css/main.34a03e24.chunk.css",
+    "main.js": "/cotizador-cripto-react/static/js/main.50ef7815.chunk.js",
+    "main.js.map": "/cotizador-cripto-react/static/js/main.50ef7815.chunk.js.map",
+    "runtime-main.js": "/cotizador-cripto-react/static/js/runtime-main.9e269fbb.js",
+    "runtime-main.js.map": "/cotizador-cripto-react/static/js/runtime-main.9e269fbb.js.map",
+    "static/js/2.d50776a0.chunk.js": "/cotizador-cripto-react/static/js/2.d50776a0.chunk.js",
+    "static/js/2.d50776a0.chunk.js.map": "/cotizador-cripto-react/static/js/2.d50776a0.chunk.js.map",
+    "static/js/3.d1509791.chunk.js": "/cotizador-cripto-react/static/js/3.d1509791.chunk.js",
+    "static/js/3.d1509791.chunk.js.map": "/cotizador-cripto-react/static/js/3.d1509791.chunk.js.map",
+    "index.html": "/cotizador-cripto-react/index.html",
+    "static/css/main.34a03e24.chunk.css.map": "/cotizador-cripto-react/static/css/main.34a03e24.chunk.css.map",
+    "static/js/2.d50776a0.chunk.js.LICENSE.txt": "/cotizador-cripto-react/static/js/2.d50776a0.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.51f1d2ed.png": "/cotizador-cripto-react/static/media/cryptomonedas.51f1d2ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e269fbb.js",
+    "static/js/2.d50776a0.chunk.js",
+    "static/css/main.34a03e24.chunk.css",
+    "static/js/main.50ef7815.chunk.js"
+  ]
+}
